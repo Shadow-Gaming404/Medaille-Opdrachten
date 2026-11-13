@@ -73,3 +73,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.slnx
+*.config
+*.exe
+ConsoleApp/ConsoleApp/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+*.cache
+*.txt
+ConsoleApp/ConsoleApp/Properties/AssemblyInfo.cs
